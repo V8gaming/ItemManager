@@ -1,0 +1,25 @@
+{
+
+    "Lua.diagnostics.disable": [
+        "param-type-mismatch",
+        "return-type-mismatch",
+        "undefined-field",
+        "need-check-nil",
+        "assign-type-mismatch",
+        "redundant-return-value",
+        "missing-parameter",
+        "undefined-global",
+        "missing-return-value",
+        "undefined-doc-name",
+        "missing-return",
+        "cast-local-type",
+        "deprecated",
+    ],
+    "Lua.diagnostics.libraryFiles": "Enable",
+    "Lua.workspace.library": [
+            "/home/swedishmask/Documents/types/client",
+            "/home/swedishmask/Documents/types/server",
+            "/home/swedishmask/Documents/types/shared",
+    ],
+    
+}

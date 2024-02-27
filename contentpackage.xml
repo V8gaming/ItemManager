@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="ItemManager" path="ItemManager" corepackage="false" gameversion="1.2.8.0">
+    <files>
+        <!-- Scripts -->
+        <file type="Script" path="Scripts/main.lua"/>
+
+    </files>
+</contentpackage>
